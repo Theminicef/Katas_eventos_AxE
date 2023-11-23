@@ -21,3 +21,14 @@ Este proyecto tiene como objetivo proporcionar ejercicios de Katas sobre eventos
 3. ...
 
 ## Estructura del Proyecto
+
+
+
+
+## Contacto
+
+Si tienes preguntas, sugerencias o simplemente quieres charlar, puedes contactarme a través de:
+
+- Correo Electrónico: [oluaese@yahoo.es](mailto:tu-email@example.com)
+- Twitter: [@theminidev](https://twitter.com/tu-usuario-twitter)
+- LinkedIn: [Oluwademilade Alese](https://www.linkedin.com/in/tu-usuario-linkedin/)
