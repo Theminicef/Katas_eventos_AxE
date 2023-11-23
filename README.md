@@ -1,4 +1,4 @@
-# Proyecto Katas de Eventos en JavaScript
+# Proyecto Katas de Eventos en JavaScript 
 
 ## Descripción del Proyecto
 
@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo proporcionar ejercicios de Katas sobre eventos
 
 ## Instrucciones de Uso
 
-1. Clona el repositorio: 
+1. Clona el repositorio: https://github.com/Theminicef/Katas_eventos_AxE.git
 2. Abre el archivo `index.html` en tu navegador.
 3. ...
 
