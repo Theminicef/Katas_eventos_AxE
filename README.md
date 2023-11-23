@@ -2,17 +2,18 @@
 
 ## Descripción del Proyecto
 
-Este proyecto tiene como objetivo proporcionar ejercicios de Katas sobre eventos en JavaScript, organizados en 7 niveles de dificultad creciente.
+Este proyecto tiene como objetivo proporcionar ejercicios de Katas sobre eventos en JavaScript, organizados en 4 niveles de dificultad creciente.
+
+Inspiradas en las artes marciales, las Katas son tareas repetitivas que permiten a los programadores practicar conceptos específicos, perfeccionar su técnica y ganar fluidez en el código.
+
+Una vez que comiences, comenzaran tus pruebas, cada nivel sera para demostrar tu valia y consagrarte como un ninja de las Katas.
 
 ## Niveles de Dificultad
 
-- Nivel 1: ...
-- Nivel 2: ...
-- Nivel 3: ...
-- Nivel 4: ...
-- Nivel 5: ...
-- Nivel 6: ...
-- Nivel 7: ...
+- Nivel 1: 
+- Nivel 2: 
+- Nivel 3: 
+- Nivel 4: 
 
 ## Instrucciones de Uso
 
