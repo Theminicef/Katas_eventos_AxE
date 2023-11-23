@@ -1,4 +1,4 @@
-# Proyecto Katas de Eventos en JavaScript :tw-1f385:
+# Proyecto Katas de Eventos en JavaScript
 
 ## Descripción del Proyecto
 
