@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo proporcionar ejercicios de Katas sobre eventos
 
 ## Instrucciones de Uso
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona el repositorio: 
 2. Abre el archivo `index.html` en tu navegador.
 3. ...
 
