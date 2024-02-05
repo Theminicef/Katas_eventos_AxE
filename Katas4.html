@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kata 4</title>
+  <style>
+    /* Aquí puedes definir el estilo para el reloj, por ejemplo, tamaño y fuente */
+    #reloj {
+      font-size: 24px;
+      font-family: 'Arial', sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <!-- Agrega un div con un ID único para mostrar el reloj -->
+  <div id="reloj">12:00:00</div>
+
+  <!-- Agrega un botón con un ID único para cambiar el formato del reloj -->
+  <button id="cambiarFormatoBtn">Cambiar Formato</button>
+
+  <script>
+    // Aquí proporciono un código inicial para obtener la hora actual y actualizar el reloj cada segundo
+    function actualizarReloj() {
+      const relojElemento = document.getElementById('reloj');
+      const formato24Horas = true; // Cambiar a false para usar formato de 12 horas
+
+      const options = { hour12: !formato24Horas, hour: 'numeric', minute: 'numeric', second: 'numeric' };
+      const horaActual = new Date().toLocaleTimeString('en-US', options);
+
+      relojElemento.textContent = horaActual;
+    }
+
+    // Actualizar el reloj cada segundo
+    setInterval(actualizarReloj, 1000);
+
+    // En este espacio, tu objetivo es agregar código JavaScript
+    // que maneje el evento de clic en el botón para cambiar el formato del reloj.
+  </script>
+</body>
+</html>
