@@ -8,12 +8,16 @@ Inspiradas en las artes marciales, las Katas son tareas repetitivas que permiten
 
 Una vez que comiences, comenzaran tus pruebas, cada nivel sera para demostrar tu valia y consagrarte como un ninja de las Katas.
 
-## Niveles de Dificultad
+## Niveles de Dificultad y ## Estructura del Proyecto
 
-- Nivel 1: 
-- Nivel 2: 
-- Nivel 3: 
-- Nivel 4: 
+- Nivel 1: Kata 1: ¡Hola, Mundo!
+Crea una página HTML simple con un botón. Cuando se haga clic en el botón, muestra un mensaje de alerta que diga "¡Hola, Mundo!".
+- Nivel 2: Kata 2: Cambio de Color
+Crea una página HTML con un cuadrado de color y un botón. Al hacer clic en el botón, cambia el color del cuadrado a uno aleatorio. Puedes definir un conjunto predefinido de colores o generar colores de forma dinámica.
+- Nivel 3: Kata 3: Lista de Tareas
+Crea una lista de tareas en una página HTML. Permite a los usuarios agregar nuevas tareas, marcar tareas como completadas y eliminar tareas. Utiliza eventos como clic y doble clic para diferentes interacciones.
+- Nivel 4: Kata 4: Reloj Digital
+Crea una página HTML con un reloj digital que muestra la hora actual. Actualiza la hora automáticamente cada segundo. Agrega un botón que permita al usuario cambiar el formato de la hora entre 12 horas y 24 horas.
 
 ## Instrucciones de Uso
 
@@ -21,15 +25,10 @@ Una vez que comiences, comenzaran tus pruebas, cada nivel sera para demostrar tu
 2. Abre el archivo `index.html` en tu navegador.
 3. ...
 
-## Estructura del Proyecto
-
-
-
-
 ## Contacto
 
 Si tienes preguntas, sugerencias o simplemente quieres charlar, puedes contactarme a través de:
 
-- Correo Electrónico: [oluaese@yahoo.es](mailto:tu-email@example.com)
+- Correo Electrónico: [oluaese@gmail.com](mailto:tu-email@example.com)
 - Twitter: [@theminidev](https://twitter.com/tu-usuario-twitter)
 - LinkedIn: [Oluwademilade Alese](https://www.linkedin.com/in/aleseolu/)
